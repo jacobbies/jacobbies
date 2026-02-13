@@ -6,7 +6,7 @@
 ---
 ## 🚀 Projects
 
-🎼 [MESS](https://github.com/jacobbieschke/mess-ai) – Expressive classical music similarity search
+🎼 [MESS](https://github.com/jacobbieschke/mess-ai) – Expressive classical music similarity search 
 Content-based classical music search using MERT embeddings + FAISS + PyTorch.
 - Layer probing experiments
 - Segment-level similarity search
