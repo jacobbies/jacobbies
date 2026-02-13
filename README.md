@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Jacob 👋
 
-<!--
-**jacobbies/jacobbies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Los Angeles, California  
+🎓 Statistics & Data Science @ UC Santa Barbara  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+
+- Fine-tuning MERT for expressive similarity
+- FAISS indexing & scalable search
+- Audio representation learning
+
+---
+
+## 🚀 Projects
+
+[mess-ai](https://github.com/jacobbies/mess-ai)
+### 🎼 MESS (Music Expressive Similarity Search)
+Content-based classical music search using MERT embeddings + FAISS.
+- Layer probing experiments
+- Segment-level similarity search
+- AWS EC2 + S3 deployment in private repo
+- FastAPI backend + React frontend
+
+### 🐦 BirdCLEF 2025
+Bioacoustic classification competition — PyTorch training + feature engineering.
+
+---
+
+## 🛠 Tech Stack
+
+`Python` `PyTorch` `NumPy`  
+`FastAPI` `AWS` `Docker`  
+`React` `TypeScript`
+
+---
+
+## 📫 Contact
+
+LinkedIn:  
+Email: jacobbieschke@gmail.com 
