@@ -1,5 +1,5 @@
 # Hi, I'm Jacob 👋
-🎓 Statistics & Data Science @ UC Santa Barbara  
+🎓 Statistics & Data Science @ UC Santa Barbara - 2025
 📍 Los Angeles, California
 
 ## 🚀 Projects
