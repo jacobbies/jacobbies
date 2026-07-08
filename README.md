@@ -7,19 +7,8 @@
 🔗 Live Demo: https://neural-audio-codec.vercel.app  
 
 
-🎼 [MESS](https://github.com/jacobbies/mess-ai) – Expressive classical music similarity search  
+🎼 [MESS](https://github.com/jacobbies/mess-ai) – Expressive music similarity search  
 🔗 Live Demo: https://mess-ai.vercel.app
-- Content-based music filtering using MERT embeddings + FAISS + PyTorch.
-- Layer probing experiments
-- Segment-level similarity search
-- AWS EC2 + S3 deployment in private repo
-
-## 🛠 Tech Stack
-
-`Python` `PyTorch` `NumPy` `MacOS` 
-`FastAPI` `AWS` `Docker` `Linux` 
-`React` `TypeScript` `CLI` 
 
 ## 📫 Contact
-LinkedIn:  
 Email: jacobbieschke@gmail.com 
